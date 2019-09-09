@@ -12,7 +12,7 @@
 
 <img src="https://github.com/PuneetDheer/DEEP_LEARNING_TF_KERAS/blob/master/AutoEncoders/Examples/3.png" /> <br />
 
-**4. Denoising Autoencoders** <br />
+**4. Denoising Autoencoder** <br />
 
 <img src="https://github.com/PuneetDheer/DEEP_LEARNING_TF_KERAS/blob/master/AutoEncoders/Examples/4.png" /> <br />
 
